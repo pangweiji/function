@@ -1,0 +1,1 @@
+{"sublime_text": ">=3000", "platforms": ["windows"], "version": "1.14.1", "dependencies": [], "description": "Commercial SFTP/FTP plugin - upload, sync, browse, remote edit, diff and vcs integration", "url": "https://wbond.net/sublime_packages/sftp"}

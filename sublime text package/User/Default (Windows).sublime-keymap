@@ -1,0 +1,35 @@
+[
+    { "keys": ["ctrl+shift+c"], "command": "copy_path" },
+    //chrome
+    { "keys": ["f1"], "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+            "extensions":".*" //匹配任何文件类型
+        }
+    },
+    //firefox
+    { "keys": ["f2"], "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "D:\\Mozilla Firefox\\firefox.exe",
+            "extensions":".*"
+        }
+     },
+    //ie
+    { "keys": ["f4"], "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+            "extensions":".*"
+        }
+    },
+    //safari
+    { "keys": ["f5"], "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "D:\\Program Files\\Safari\\safari.exe",
+            "extensions":".*"
+        }
+    }
+]

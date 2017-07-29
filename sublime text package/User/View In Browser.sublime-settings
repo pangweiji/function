@@ -1,0 +1,13 @@
+{
+	"nt": {
+		"win32": {
+			"firefox": "D:\\Mozilla Firefox\\firefox.exe -new-tab",
+			"iexplore": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+			"chrome": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+			"chrome64": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+			"yandex": "%Local AppData%\\Yandex\\YandexBrowser\\browser.exe"
+		}
+	},
+
+	"browser": "firefox"
+}

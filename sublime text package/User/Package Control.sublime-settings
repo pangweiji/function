@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Blade Snippets",
+		"DocBlockr",
+		"JavaScript Completions",
+		"jQuery",
+		"Laravel 5 Artisan",
+		"Laravel 5 Docs Light Color Scheme",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Sublimerge Pro"
+	]
+}
