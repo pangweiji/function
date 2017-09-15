@@ -8,11 +8,12 @@
 		}
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 13,
+	"font_size": 15,
 	"ignored_packages":
 	[
 		""
 	],
+	"theme": "Adaptive.sublime-theme",
 	"update_check": false,
 	"word_wrap": "true"
 }
